@@ -1,0 +1,84 @@
+OLD_FASHIONED_BURGERS
+	Pretzel_Bacon_Cheeseburger,5.56,ENTREE,Pretzel_Bun,Hamburger_Patty,Honey_Mustard,Cheddar_Cheese,Cheddar_Cheese_Sauce,Spring_Mix,Bacon,Tomatoes,Red_Onion
+	Pulled_Pork_Cheeseburger,6.66,ENTREE,Brioche_Bun,Hamburger_Patty,Pulled_Pork,Cheddar_Cheese,BBQ_Sauce,Broccoli_Slaw
+	1/4_lb_Single,4.27,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Processed_Cheese_Slice,Mayonnaise,Ketchup,Pickles,Red_Onion,Tomatoes,Lettuce
+	1/2_lb_Double,5.34,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Hamburger_Patty,Processed_Cheese_Slice,Mayonnaise,Ketchup,Pickles,Red_Onion,Tomatoes,Lettuce
+	3/4_lb_Triple,6.30,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Hamburger_Patty,Hamburger_Patty,Processed_Cheese_Slice,Mayonnaise,Ketchup,Pickles,Red_Onion,Tomatoes,Lettuce
+	Baconator_1/2_lb_Double,6.30,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Hamburger_Patty,Processed_Cheese_Slice,Bacon,Mayonnaise,Ketchup
+	Son_of_Baconator,4.80,ENTREE,Premium_Toasted_Bun,JR_Hamburger_Patty,JR_Hamburger_Patty,Processed_Cheese_Slice,Bacon,Mayonnaise,Ketchup
+	Bacon_Deluxe_1/4_lb_Single,5.34,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Bacon,Processed_Cheese_Slice,Mayonnaise,Ketchup,Pickles,Red_Onion,Totatoes,Lettuce
+	Bacon_Deluxe_1/2_lb_Double,6.30,ENTREE,Premium_Toasted_Bun,Hamburger_Patty,Hamburger_Patty,Bacon,Processed_Cheese_Slice,Mayonnaise,Ketchup,Pickles,Red_Onion,Totatoes,Lettuce
+CHICKEN,_WRAPS_AND_PORK
+	Pulled_Pork_Sandwich,5.56,ENTREE,Brioche_Bun,Pulled_Pork,BBQ_Sauce,Broccoli_Slaw	
+	Ultimate_Chicken_Grill,5.88,ENTREE,Premium_Toasted_Bun,Ultimate_Chicken_Grill_Breast,Lettuce,Tomatoes,Honey_Mustard
+	Spicy_Chicken_Breast_Sandwich,6.21,ENTREE,Premium_Toasted_Bun,Spicy_Chicken_Breast,Lettuce,Tomatoes,Mayonnaise
+	Homestyle_Chicken_Breast_Sandwich,6.03,ENTREE,Premium_Toasted_Bun,Homestyle_Chicken_Breast,Lettuce,Tomatoes,Mayonnaise
+	Asiago_Ranch_Chicken_Club,6.44,ENTREE,Premium_Toasted_Bun,Homestyle_Chicken_Breast,Bacon,Asiago_Cheese,Tomatoes,Lettuce,Ranch
+	Homestyle_Chicken_Strips,4.79,ENTREE
+	5-Piece_Chicken_Nuggets,1.89,ENTREE
+	10-Piece_Chicken_Nuggets,3.69,ENTREE
+	Grilled_Chicken_Wrap,1.89,ENTREE,Tortilla,Ultimate_Chicken_Grill_Breast,Shredded_Cheddar_Cheese,Lettuce_Blend,Honey_Mustard
+	Spicy_Chicken_Wrap,1.89,ENTREE,Tortilla,Spicy_Chicken_Breast,Shredded_Cheddar_Cheese,Lettuce_Blend,Ranch
+FRESH-MADE_SALADS
+	Asian_Cashew_Chicken_Salad,6.62,ENTREE,Ultimate_Chicken_Grill_Breast,Asian_Cashew_Salad_Blend,Spicy_Roasted_Cashews,Spicy_Asian_Chili_Vinaigrette
+	BBQ_Ranch_Chicken_Salad,6.62,ENTREE,BBQ_Ranch,Lettuce_Blend,Ultimate_Chicken_Grill_Breast,Bacon,Honey_BBQ_Glaze
+	Taco_Supremo_Salad,6.62,ENTREE,Small_Chili,Taco_Supremo_Salad_Blend,Taco_Chips,Salsa,Sour_Cream
+	Apple_Pecan_Chicken_Salad,6.62,ENTREE,Lettuce_Blend,Dried_Cranberries,Apple_Chunks,Blue_Cheese_Crumbles,Ultimate_Chicken_Grill_Breast,Roasted_Pecans,Pomegranate_Vinaigrette_Dressing
+	Spicy_Chicken_Caesar_Salad,6.62,ENTREE,Romaine_Lettuce,Asiago_Cheese,Bacon,Spicy_Chicken_Breast,Croutons,Lemon_Garlic_Caesar_Dressing
+PAIR_2	
+	Any_Salad_+
+		Water
+		Baked_Potato
+		Frosty
+		Pop
+		Chili
+		Burger
+EVERYDAY_VALUE_MENU
+	Cheesy_Cheddarburger,1.89,ENTREE,Sandwich_Bun,JR_Hamburger_Patty,Processed_Cheese_Slice,Cheddar_Cheese_Sauce
+	JR_Bacon_Cheeseburger,1.89,ENTREE,Sandwich_Bun,JR_Hamburger_Patty,Processed_Cheese_Slice,Bacon,Mayonnaise,Tomato,Lettuce
+	Chili_Cheese_Nachos,1.89,ENTREE,Salted_Tortilla_Chips,Chili_Sauce,Cheddar_Cheese_Sauce
+	Grilled_Chicken_Wrap,1.89,ENTREE,Tortilla,Ultimate_Chicken_Grill_Breast,Shredded_Cheddar_Cheese,Lettuce_Blend,Honey_Mustard
+	Small_Fries,1.89,SIDE,Sea_Salt
+	5-Piece_Chicken_Nuggets,1.89,ENTREE
+	Small_Frosty,1.89,DRINK
+	Oreo_Frosty_Parfait,1.89,DRINK,Oreo_Crumbles
+	Spicy_Chicken_Wrap,1.89,ENTREE,Tortilla,Spicy_Chicken_Breast,Shredded_Cheddar_Cheese,Lettuce_Blend,Ranch
+FRIES_&_SIDES
+	Poutine,2.34,SIDE,Fries,Gravy,Cheese_Curds
+	Chili_Cheese_Fries,2.60,SIDE,Cheddar_Cheese_Sauce,Shredded_Cheese
+	Pulled_Pork_Poutine,2.87,SIDE,Gravy,Pulled_Pork,Cheese_Curds,BBQ_Sauce,Red_Onion
+	Fries_w/_Sea_Salt,1.95,SIDE,Sea_Salt
+	Chili_Cheese_Nachos,2.40,SIDE,Small_Chili,Taco_Chips,Cheddar_Cheese_Sauce
+	Garden_Side_Salad,1.90,SIDE,Lettuce_Blend,Matchstick_Carrots,Tomato_Wedges,Light_Classic_Ranch,Croutons
+	Caesar_Side_Salad,1.90,SIDE,Romaine,Shaved_Asiago_Cheese,Bacon,Lemon_Garlic_Caesar_Dressing,Croutons
+	Sour_Cream_&_Chive_Potato,1.90,SIDE,Sour_Cream,Chives
+	Broccoli_&_Cheddar_Cheese_Potato,2.05,SIDE,Cheddar_Cheese_Sauce,Broccoli
+	Bacon_&_Cheddar_Cheese_Potato,2.10,SIDE,Bacon,Cheddar_Cheese_Sauce
+	Chili,1.90,SIDE,Small_Chili
+	Strawberry_Yogurt,1.90,SIDE
+BEVERAGES
+	Coca_Cola,1.21,DRINK
+	Diet_Coca_Cola,1.21,DRINK
+	Coca_Cola_Zero,1.21,DRINK
+	Sprite,1.21,DRINK
+	Bargs_Root_Beer,1.21,DRINK
+	Dasani_Water,1.67,DRINK
+	Orange_Fanta,1.21,DRINK
+	Nestea,1.21,DRINK
+	Strawberry_Fruitopia,1.21,DRINK
+WENDY'S_KIDS_MEALS
+	Pick_3:
+	1)
+	Kids'_4-Piece_Nuggets
+	Kids'_Hamburger
+	Kids'_Cheeseburger
+		2)
+		Strawberry_Yogurt
+		French_Fries
+			3)
+			2%_MF_Partly_Skimmed_White_Milk
+			1%_MF_Partly_Skimmed_Chocolate_Milk
+			Apple_Juice
+			Orange_Juice
+			Jr._Vanilla_/_Chocolate_Frosty
+			Kids'_Meal_Beverage

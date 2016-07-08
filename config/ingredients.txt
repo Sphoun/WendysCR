@@ -1,0 +1,69 @@
+Pretzel Bun,2.50,TOPPING
+Brioche Bun,2.60,TOPPING
+Premium Toasted Bun,2.40,TOPPING
+Tortilla,0.90,TOPPING
+
+Hamburger Patty,2.00,TOPPING
+JR Hamburger Patty,1.45,TOPPING
+Bacon,0.90,TOPPING
+Pulled Pork,1.90,TOPPING
+Ultimate Chicken Grill Breast,1.75,TOPPING
+Spicy Chicken Breast,1.75,TOPPING
+Homestyle Chicken Breast,1.75,TOPPING
+
+Cheddar Cheese,0.30,TOPPING
+Processed Cheese Slice,0.20,TOPPING
+Shredded Cheddar Cheese,0.30,TOPPING
+Asiago Cheese,0.50,TOPPING
+Shaved Asiago Cheese,0.50,TOPPING
+
+Honey Mustard,0.00,SAUCE
+Ketchup,0.00,SAUCE
+Mayonnaise,0.00,SAUCE
+BBQ Sauce,0.00,SAUCE
+BBQ Ranch,0.20,SAUCE
+Honey BBQ Glaze,0.20,SAUCE
+Ranch,0.00,SAUCE
+Chili Sauce,0.60,SAUCE
+Cheddar Cheese Sauce,0.40,SAUCE
+Salsa,0.20,SAUCE
+Sour Cream,0.10,SAUCE
+Lemon Garlic Caesar Dressing,0.15,SAUCE
+Light Classic Ranch,0.10,SAUCE
+Gravy,0.30,SAUCE
+
+Spring Mix,0.05,TOPPING
+Lettuce,0.05,TOPPING
+Romaine Lettuce,0.05,TOPPING
+Tomatoes,0.10,TOPPING
+Pickles,0.10,TOPPING
+Red Onion,0.10,TOPPING
+Lettuce Blend,0.10,TOPPING
+Broccoli Slaw,0.25,TOPPING
+Tomato Wedges,0.10,TOPPING
+Matchstick Carrots,0.10,TOPPING
+Sea Salt,0.00,TOPPING
+Broccoli,0.15,TOPPING
+Chives,0.05,TOPPING
+
+Asian Cashew Salad Blend,0.20,TOPPING
+Spicy Roasted Cashews,0.20,TOPPING
+Spicy Asian Chili Vinaigrette,0.15,TOPPING
+
+Small Chili,1.89,TOPPING
+Cheese Curds,0.89,TOPPING
+Taco Supremo Salad Blend,0.50,TOPPING
+Taco Chips,0.30,TOPPING
+
+Dried Cranberries,0.10,TOPPING
+Apple Chunks,0.10,TOPPING
+Blue Cheese Crumbles,0.20,TOPPING
+Croutons,0.20,TOPPING
+
+Oreo Crumbles,0.15,TOPPING
+
+
+
+Roasted Pecans,0.00,TOPPING
+Pomegranate Vinaigrette Dressing,0.75,SAUCE
+Sandwich Bun,0.00,TOPPING

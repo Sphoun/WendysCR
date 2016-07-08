@@ -1,0 +1,59 @@
+Pretzel Bacon Cheeseburger,5.56,ENTREE,Pretzel Bun,Hamburger Patty,Honey Mustard,Cheddar Cheese,Cheddar Cheese Sauce,Spring Mix,Bacon,Tomatoes,Red Onion
+Pulled Pork Cheeseburger,6.66,ENTREE,Brioche Bun,Hamburger Patty,Pulled Pork,Cheddar Cheese,BBQ Sauce,Broccoli Slaw
+1/4 lb Single,4.27,ENTREE,Premium Toasted Bun,Hamburger Patty,Processed Cheese Slice,Mayonnaise,Ketchup,Pickles,Red Onion,Tomatoes,Lettuce
+1/2 lb Double,5.34,ENTREE,Premium Toasted Bun,Hamburger Patty,Hamburger Patty,Processed Cheese Slice,Mayonnaise,Ketchup,Pickles,Red Onion,Tomatoes,Lettuce
+3/4 lb Triple,6.30,ENTREE,Premium Toasted Bun,Hamburger Patty,Hamburger Patty,Hamburger Patty,Processed Cheese Slice,Mayonnaise,Ketchup,Pickles,Red Onion,Tomatoes,Lettuce
+Baconator 1/2 lb Double,6.30,ENTREE,Premium Toasted Bun,Hamburger Patty,Hamburger Patty,Processed Cheese Slice,Bacon,Mayonnaise,Ketchup
+Son of Baconator,4.80,ENTREE,Premium Toasted Bun,JR Hamburger Patty,JR Hamburger Patty,Processed Cheese Slice,Bacon,Mayonnaise,Ketchup
+Bacon Deluxe 1/4 lb Single,5.34,ENTREE,Premium Toasted Bun,Hamburger Patty,Bacon,Processed Cheese Slice,Mayonnaise,Ketchup,Pickles,Red Onion,Tomatoes,Lettuce
+Bacon Deluxe 1/2 lb Double,6.30,ENTREE,Premium Toasted Bun,Hamburger Patty,Hamburger Patty,Bacon,Processed Cheese Slice,Mayonnaise,Ketchup,Pickles,Red Onion,Tomatoes,Lettuce
+
+Pulled Pork Sandwich,5.56,ENTREE,Brioche Bun,Pulled Pork,BBQ Sauce,Broccoli Slaw
+Ultimate Chicken Grill,5.88,ENTREE,Premium Toasted Bun,Ultimate Chicken Grill Breast,Lettuce,Tomatoes,Honey Mustard
+Spicy Chicken Breast Sandwich,6.21,ENTREE,Premium Toasted Bun,Spicy Chicken Breast,Lettuce,Tomatoes,Mayonnaise
+Homestyle Chicken Breast Sandwich,6.03,ENTREE,Premium Toasted Bun,Homestyle Chicken Breast,Lettuce,Tomatoes,Mayonnaise
+Asiago Ranch Chicken Club,6.44,ENTREE,Premium Toasted Bun,Homestyle Chicken Breast,Bacon,Asiago Cheese,Tomatoes,Lettuce,Ranch
+Homestyle Chicken Strips,4.79,ENTREE
+5-Piece Chicken Nuggets,1.89,ENTREE
+10-Piece Chicken Nuggets,3.69,ENTREE
+Grilled Chicken Wrap,1.89,ENTREE,Tortilla,Ultimate Chicken Grill Breast,Shredded Cheddar Cheese,Lettuce Blend,Honey Mustard
+Spicy Chicken Wrap,1.89,ENTREE,Tortilla,Spicy Chicken Breast,Shredded Cheddar Cheese,Lettuce Blend,Ranch
+
+Asian Cashew Chicken Salad,6.62,ENTREE,Ultimate Chicken Grill Breast,Asian Cashew Salad Blend,Spicy Roasted Cashews,Spicy Asian Chili Vinaigrette
+BBQ Ranch Chicken Salad,6.62,ENTREE,BBQ Ranch,Lettuce Blend,Ultimate Chicken Grill Breast,Bacon,Honey BBQ Glaze
+Taco Supremo Salad,6.62,ENTREE,Small Chili,Taco Supremo Salad Blend,Taco Chips,Salsa,Sour Cream
+Apple Pecan Chicken Salad,6.62,ENTREE,Lettuce Blend,Dried Cranberries,Apple Chunks,Blue Cheese Crumbles,Ultimate Chicken Grill Breast,Roasted Pecans,Pomegranate Vinaigrette Dressing
+Spicy Chicken Caesar Salad,6.62,ENTREE,Romaine Lettuce,Asiago Cheese,Bacon,Spicy Chicken Breast,Croutons,Lemon Garlic Caesar Dressing
+
+Cheesy Cheddarburger,1.89,SIDE,Sandwich Bun,JR Hamburger Patty,Processed Cheese Slice,Cheddar Cheese Sauce
+JR Bacon Cheeseburger,1.89,SIDE,Sandwich Bun,JR Hamburger Patty,Processed Cheese Slice,Bacon,Mayonnaise,Tomatoes,Lettuce
+Chili Cheese Nachos,1.89,SIDE,Taco Chips,Chili Sauce,Cheddar Cheese Sauce
+Grilled Chicken Wrap,1.89,SIDE,Tortilla,Ultimate Chicken Grill Breast,Shredded Cheddar Cheese,Lettuce Blend,Honey Mustard
+Small Fries,1.89,SIDE,Sea Salt
+5-Piece Chicken Nuggets,1.89,SIDE
+Small Frosty,1.89,DRINK
+Oreo Frosty Parfait,1.89,DRINK,Oreo Crumbles
+Spicy Chicken Wrap,1.89,ENTREE,Tortilla,Spicy Chicken Breast,Shredded Cheddar Cheese,Lettuce Blend,Ranch
+
+Poutine,2.34,SIDE,Gravy,Cheese Curds
+Chili Cheese Fries,2.60,SIDE,Cheddar Cheese Sauce,Shredded Cheddar Cheese
+Pulled Pork Poutine,2.87,SIDE,Gravy,Pulled Pork,Cheese Curds,BBQ Sauce,Red Onion
+Fries w/ Sea Salt,1.95,SIDE,Sea Salt
+Chili Cheese Nachos,2.40,SIDE,Small Chili,Taco Chips,Cheddar Cheese Sauce
+Garden Side Salad,1.90,SIDE,Lettuce Blend,Matchstick Carrots,Tomato Wedges,Light Classic Ranch,Croutons
+Caesar Side Salad,1.90,SIDE,Romaine Lettuce,Shaved Asiago Cheese,Bacon,Lemon Garlic Caesar Dressing,Croutons
+Sour Cream & Chive Potato,1.90,SIDE,Sour Cream,Chives
+Broccoli & Cheddar Cheese Potato,2.05,SIDE,Cheddar Cheese Sauce,Broccoli
+Bacon & Cheddar Cheese Potato,2.10,SIDE,Bacon,Cheddar Cheese Sauce
+Chili,1.90,SIDE,Small Chili
+Strawberry Yogurt,1.90,SIDE
+
+Coca Cola,1.21,DRINK
+Diet Coca Cola,1.21,DRINK
+Coca Cola Zero,1.21,DRINK
+Sprite,1.21,DRINK
+Bargs Root Beer,1.21,DRINK
+Dasani Water,1.67,DRINK
+Orange Fanta,1.21,DRINK
+Nestea,1.21,DRINK
+Strawberry Fruitopia,1.21,DRINK
